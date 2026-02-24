@@ -19,13 +19,10 @@ Research Interests
 
 
 News
-------
+======
 -May 2025 Our paper HAOT: Heterogeneous Hardware-Aware Tensor Computation Optimization Framework via Transformer has been accepted by IEEE TCAD!
-
 -March 2025 Our paper An Agile Design Method for Reconfigurable Spatial Accelerators in Tensor Computation was presented at ISEDA 2025, Hong Kong.
-
 -January 2025 Our paper Accelerating Control Flow on CGRAs via Speculative Iteration Execution has been accepted by IEEE CAL!
-
 -December 2024 Our paper HiEval: A Scheduling Performance Estimation Approach for Spatial Accelerators via Hierarchical Abstraction was published in Journal of Systems Architecture (JSA).
 
 
