@@ -1,4 +1,4 @@
-<img width="3120" height="2080" alt="image" src="https://github.com/user-attachments/assets/f930f5b4-4125-42bf-b254-9e46d5f840fb" />---
+---
 permalink: /
 title: "Wu Zhipeng"
 author_profile: true
