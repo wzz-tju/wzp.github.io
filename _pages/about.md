@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wu Zhipeng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Lecturer in the School of Electrical and Information Engineering at Tianjin University. I completed my Ph.D. in Circuits and Systems at Tianjin University, where I was advised by Prof. Yu Liu. My research interests lie at the intersection of Electronic Design Automation (EDA), Computer Architecture, and Hardware-Software Co-design. Specifically, my work focuses on developing autonomous and controllable hardware-software systems to address "choke point" technical challenges in intelligent edge computing. This includes systematic research into RISC-V open-source architectures, reconfigurable spatial accelerators (CGRAs), hardware-aware compilation optimization, and intelligent scheduling algorithms. My goal is to bridge the gap between high-level algorithmic requirements and low-level hardware constraints through agile design and cross-layer optimization. My research has been recognized with publications in IEEE TCAD, JSA, IEEE CAL, IEEE ESL, ISCAS, and ISEDA.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Email：zhipeng_wu@tju.edu.cn
 
 A data-driven personal website
 ======
