@@ -1,7 +1,7 @@
 ---
 title: "Design and Implementation of RISC-V System-on-Chip for SPWM Generation Based on FPGA"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-12-25-riscv-spwm-soc
 excerpt: "RISC-V SoC design and implementation for SPWM generation on FPGA."
 date: 2024-12-25

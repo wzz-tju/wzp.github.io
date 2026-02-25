@@ -1,7 +1,7 @@
 ---
 title: "A Multi-beam Steerable Parametric Array Loudspeaker for Distinct Audio Content Directing"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2022-01-01-multibeam-pal
 excerpt: "FPGA-based multibeam steerable parametric array loudspeaker enabling distinct audio content directing."
 date: 2022-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Control Flow on CGRAs via Speculative Iteration Execution"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-03-27-speculative-iteration-execution
 excerpt: "CGRA control-flow acceleration via speculative iteration execution."
 date: 2025-03-27

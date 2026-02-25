@@ -1,7 +1,7 @@
 ---
 title: "An Efficient Hardware Accelerator for Block Sparse Convolutional Neural Networks on FPGA"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-06-01-block-sparse-cnn-fpga
 excerpt: "FPGA accelerator design for block-sparse CNNs with efficient mapping and execution."
 date: 2024-06-01

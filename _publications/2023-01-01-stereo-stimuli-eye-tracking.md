@@ -1,7 +1,7 @@
 ---
 title: "A Novel Integrated Eye-Tracking System With Stereo Stimuli for 3-D Gaze Estimation"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2023-01-01-stereo-stimuli-eye-tracking
 excerpt: "Integrated eye-tracking system with stereo stimuli for accurate 3-D gaze estimation."
 date: 2023-01-01

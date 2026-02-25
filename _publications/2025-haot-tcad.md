@@ -1,7 +1,7 @@
 ---
 title: "HAOT: Heterogeneous Hardware-Aware Tensor Computation Optimization Framework via Transformer"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-haot-tcad
 excerpt: "Hardware-aware tensor computation optimization framework combining learning-based scheduling with analytical hardware modeling."
 date: 2025-01-01

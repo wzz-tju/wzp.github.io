@@ -1,7 +1,7 @@
 ---
 title: "Multibit Attention Fusion for Gaze Estimation Using 12-Bit RAW Data From CMOS Sensors"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-05-12-multibit-attention-fusion
 excerpt: "Gaze estimation method using multibit attention fusion with 12-bit RAW CMOS sensor data."
 date: 2025-05-12

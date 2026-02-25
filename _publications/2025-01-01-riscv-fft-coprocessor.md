@@ -1,7 +1,7 @@
 ---
 title: "A Flexible Dual-Mode and Efficient RISC-V Coprocessor for On-Node FFT Acceleration in Edge Sensing"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-01-01-riscv-fft-coprocessor
 excerpt: "Dual-mode RISC-V coprocessor design for efficient on-node FFT acceleration in edge sensing."
 date: 2025-01-01
