@@ -20,7 +20,7 @@ My research has been featured in premier journals and conferences, including **I
 ## Contact
 
 - **Email:** zhipeng_wu@tju.edu.cn  
-- **Lab Website:** [Laboratory Homepage](https://YOUR-LAB-WEBSITE.com)
+- **Lab Website:** [Laboratory Homepage](https://kangshilife.com/k/tju/home.html)
 
 ---
 
